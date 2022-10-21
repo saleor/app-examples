@@ -1,0 +1,6 @@
+[submodule "examples/dashboard-extensions"]
+	path = examples/dashboard-extensions
+	url = git@github.com:saleor/saleor-app-template.git
+[submodule "examples/metadata-manager"]
+	path = examples/metadata-manager
+	url = git@github.com:saleor/saleor-app-template.git
