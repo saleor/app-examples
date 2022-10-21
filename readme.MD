@@ -1,6 +1,6 @@
 # Saleor App Examples
 
-This repository will soon contain examples with common patterns writing Saleor Apps
+This repository contains various examples how to build Saleor Apps
 
 ## Resources
 
