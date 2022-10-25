@@ -4,3 +4,6 @@
 [submodule "examples/metadata-manager"]
 	path = examples/metadata-manager
 	url = git@github.com:saleor/saleor-app-template.git
+[submodule "examples/external-webhook"]
+	path = examples/external-webhook
+	url = git@github.com:saleor/saleor-app-template.git
