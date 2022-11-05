@@ -7,3 +7,6 @@
 [submodule "examples/external-webhook"]
 	path = examples/external-webhook
 	url = git@github.com:saleor/saleor-app-template.git
+[submodule "examples/async-webhook-handler"]
+	path = examples/async-webhook-handler
+	url = git@github.com:saleor/saleor-app-template.git
