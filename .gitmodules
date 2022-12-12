@@ -10,3 +10,6 @@
 [submodule "examples/async-webhook-handler"]
 	path = examples/async-webhook-handler
 	url = git@github.com:saleor/saleor-app-template.git
+[submodule "examples/protected-route"]
+	path = examples/protected-route
+	url = git@github.com:saleor/saleor-app-template.git
