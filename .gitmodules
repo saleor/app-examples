@@ -13,3 +13,6 @@
 [submodule "examples/protected-route"]
 	path = examples/protected-route
 	url = git@github.com:saleor/saleor-app-template.git
+[submodule "examples/trpc"]
+	path = examples/trpc
+	url = git@github.com:saleor/saleor-app-template.git
