@@ -1,11 +1,10 @@
-# Saleor App Examples
+# Legacy @saleor/app-sdk examples
 
 ![Saleor App Template](https://user-images.githubusercontent.com/249912/71523206-4e45f800-28c8-11ea-84ba-345a9bfc998a.png)
 
-This repository contains various examples how to build Saleor Apps
+This repository contains various examples of how to consume @saleor/app-sdk - the toolkit for building apps with Next.js
 
-## Resources
+Warning - this repository will be removed and examples will be merged with app-sdk repository
 
 - [Saleor App Template](https://github.com/saleor/saleor-app-template)
 - [Saleor App SDK](https://github.com/saleor/saleor-app-sdk)
-- [Apps Docs](https://docs.saleor.io/docs/3.x/developer/extending/apps/key-concepts)
