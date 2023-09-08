@@ -5,4 +5,4 @@
 This repository contains various examples of how to consume @saleor/app-sdk - the toolkit for building apps with Next.js.
 
 > [!WARNING]  
-> The `app-examples` are being merged into the [`app-sdk`](https://github.com/saleor/saleor-app-sdk) repository.
+> The `examples` directory is being merged into the [`app-sdk`](https://github.com/saleor/saleor-app-sdk) repository. This repository will soon be read-only.
